@@ -4,6 +4,8 @@
 
 I seek a challenging position in the area of Machine Learning, Data Science, ML Analyst, Data Analyst, Business Analyst & Data Science related fields.
 
+##### tableau https://public.tableau.com/app/profile/baluhiramanpatil
+##### linkedin www.linkedin.com/in/baluhiramanpatil
 
 <!--
 **baluhiramanpatil/baluhiramanpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
