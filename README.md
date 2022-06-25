@@ -1,12 +1,19 @@
-### Hi there 👋
-
+## Hi there 👋
 ### I am Balu Patil
-
-I seek a challenging position in the area of Machine Learning, Data Science, ML Analyst, Data Analyst, Business Analyst & Data Science related fields.
-
+#### Profiles:
 ##### tableau https://public.tableau.com/app/profile/baluhiramanpatil
 ##### linkedin www.linkedin.com/in/baluhiramanpatil
-
+### Technical skills
+#### Packages: 
+pandas, NumPy, SciPy, Pandas, ScikitLearn, Beautiful Soup, matplotlib, seaborn, NLTK, TensorFlow
+#### Data Visualization: 
+Power BI, Tableau, Matplotlib, Seaborn
+#### Functional: 
+Data Wrangling, Data Analytics, Exploratory Data Analytics, Probability and Statistics, Database Management, Supervised and Unsupervised Learning, Clustering, Decision Trees, Machine Learning techniques, Model building and fine tuning, Cross-Validation, Ensemble Learning, Hypothesis Testing and Estimation, Time Series Modelling, Neural networks, Deep Learning, Natural Language Toolkit, Web Scraping, Data Visualization, Data Storytelling, Reporting
+#### Tools: 
+Spreadsheets, Excel, Python, Jupiter Notebook, Google Colab notebook, R, RStudio, SQL, MySQL, PostgreSQL, Tableau, Power BI
+#### Soft Skills: 
+Attention to detail, Problem-solving, Teamwork, Communication, Data Storytelling
 <!--
 **baluhiramanpatil/baluhiramanpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
