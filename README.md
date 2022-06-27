@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### I am Balu Patil
-#### Profiles:
-##### tableau https://public.tableau.com/app/profile/baluhiramanpatil
-##### linkedin www.linkedin.com/in/baluhiramanpatil
+### Profiles:
+#### tableau https://public.tableau.com/app/profile/baluhiramanpatil
+#### linkedin www.linkedin.com/in/baluhiramanpatil
 ### Technical skills
 #### Packages: 
 pandas, NumPy, SciPy, Pandas, ScikitLearn, Beautiful Soup, matplotlib, seaborn, NLTK, TensorFlow
