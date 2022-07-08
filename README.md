@@ -1,9 +1,9 @@
 # Hi there 👋
 # I am Balu Patil
-### Profiles:
-#### tableau https://public.tableau.com/app/profile/baluhiramanpatil
-#### linkedin www.linkedin.com/in/baluhiramanpatil
-#### Have gained good exposure to understand various aspects of Data Scientist through Master’s Program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Machine Learning, Data Science, Business Analytics & related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.
+## Profiles:
+tableau https://public.tableau.com/app/profile/baluhiramanpatil
+linkedin www.linkedin.com/in/baluhiramanpatil
+## Have gained good exposure to understand various aspects of Data Scientist through Master’s Program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Machine Learning, Data Science, Business Analytics & related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.
 <!--
 **baluhiramanpatil/baluhiramanpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
