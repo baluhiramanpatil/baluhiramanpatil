@@ -1,6 +1,6 @@
-#### Hi there 👋
-#### I am Balu Patil
-##### Have gained good exposure to understand various aspects of Data Scientist through Master’s Program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Machine Learning, Data Science, Business Analytics & related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.
+### Hi there 👋
+### I am Balu Patil
+#### Have gained good exposure to understand various aspects of Data Scientist through Master’s Program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Machine Learning, Data Science, Business Analytics & related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.
 <!--
 **baluhiramanpatil/baluhiramanpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
